@@ -1,0 +1,2 @@
+# FoodRecipeSharing
+美食食谱分享推荐系统带万字论文，基于springboot的饮食分享平台管理系统，java项目，毕业设计
